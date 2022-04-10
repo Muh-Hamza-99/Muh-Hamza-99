@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello < Developers />! 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Muh-Hamza-99.)
 
-<!--
-**Muh-Hamza-99/Muh-Hamza-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Hamza, a full-stack developer, cloud enthusiast, teacher & tabla player!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Docker and PostgreSQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on backend projects
+
+- 💬 Talk to me the Tabla
+
+## 🛠 Skills
+
+<label for="Front">Frontend</label>
+<h4 id="Front">
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+</h4>
+
+<label for="Back">Backend</label>
+<h4 id="Back">
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> 
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
+</h4>  
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
+
