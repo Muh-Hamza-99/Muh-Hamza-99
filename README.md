@@ -1,5 +1,5 @@
 # Hello < Developers />! 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Muh-Hamza-99.)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Muh-Hamza-99.Muh-Hamza-99)
 
 Hi, I am Hamza, a full-stack developer, cloud enthusiast, teacher & tabla player!
 
