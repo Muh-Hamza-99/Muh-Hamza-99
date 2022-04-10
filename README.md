@@ -15,8 +15,8 @@ Hi, I am Hamza, a full-stack developer, cloud enthusiast, teacher & tabla player
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
- <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/react.svg"> 
- <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwindcss.svg"> 
+ <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> 
+ <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg"> 
 </h4>
 
 <label for="Back">Backend</label>
