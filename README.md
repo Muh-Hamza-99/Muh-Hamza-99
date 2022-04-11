@@ -1,14 +1,8 @@
-# Hello < Developers />! 
+# Hey there < Developers />! 
 
 ## 🚀 About Me
 
-My name is Hamza, a full-stack developer, cloud enthusiast, teacher & tabla player!
-
-- 🌱 I’m currently learning PostgreSQL 
-
-- 👯 I’m looking to collaborate on backend projects
-
-- 💬 Talk to me the Tabla
+My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher and tabla player!
 
 ## 🛠 Skills
 
