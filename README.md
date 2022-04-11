@@ -1,6 +1,8 @@
 # Hello < Developers />! 
 
-Hi, I am Hamza, a full-stack developer, cloud enthusiast, teacher & tabla player!
+## 🚀 About Me
+
+My name is Hamza, a full-stack developer, cloud enthusiast, teacher & tabla player!
 
 - 🌱 I’m currently learning PostgreSQL 
 
