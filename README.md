@@ -13,6 +13,7 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
