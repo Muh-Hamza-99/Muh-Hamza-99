@@ -22,7 +22,7 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
+  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
