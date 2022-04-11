@@ -24,6 +24,7 @@ My name is Hamza, a full-stack developer, cloud enthusiast, teacher & tabla play
 <label for="Back">Backend</label>
 <h4 id="Back">
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> 
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg">
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"> 
