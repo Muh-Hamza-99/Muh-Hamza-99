@@ -29,6 +29,12 @@ My name is Hamza, a full-stack developer, cloud enthusiast, teacher & tabla play
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"> 
 </h4>  
 
+<label for="Tools">Tools</label>
+<h4 id="Tools">
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg"> 
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vscode.svg">
+</h4>  
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
 
