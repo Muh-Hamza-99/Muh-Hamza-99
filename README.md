@@ -46,10 +46,8 @@ My name is Hamza, a full-stack developer, cloud enthusiast, teacher & tabla play
 
 <label for="Infrastructure">Infrastructure</label>
 <h4 id="Infrastructure">
-<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg"> 
-<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg"> 
-<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
-<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg"> 
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg"> 
 </h4>  
 
 ## 🔗 Links
