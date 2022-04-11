@@ -12,7 +12,7 @@ My name is Hamza, a full-stack developer, cloud enthusiast, teacher & tabla play
 
 ## 🛠 Skills
 
-<label for="Front">Frontend</label>
+<label for="Front" style="text-transform: uppercase; letter-spacing: 2px">Frontend</label>
 <h4 id="Front">
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
