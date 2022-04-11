@@ -32,7 +32,7 @@ My name is Hamza, a full-stack developer, cloud enthusiast, teacher & tabla play
 <label for="Tools">Tools</label>
 <h4 id="Tools">
 <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg"> 
-<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vscode.svg">
+<img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vsc.svg">
 </h4>  
 
 ## 🔗 Links
