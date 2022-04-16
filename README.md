@@ -20,7 +20,6 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 <h4>Learning/barely used:</h4>
@@ -30,6 +29,7 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 
