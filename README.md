@@ -4,6 +4,9 @@
 
 My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher and tabla player!
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muh-hamza-99&label=Profile%20views&color=0e75b6&style=flat" alt="muh-hamza-99" /> </p>
+
+
 ## 🛠 Skills
 <h4>Day-to-day use:</h4>
 <div>
