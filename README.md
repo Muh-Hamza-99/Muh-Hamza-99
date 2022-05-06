@@ -21,7 +21,7 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
-<h4>Learning/barely used:</h4>
+<h4>Ocassionally used:</h4>
 <div>
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
