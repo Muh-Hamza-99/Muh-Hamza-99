@@ -28,6 +28,7 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
 
 <h4>Tools & Infrastructure</h4>
 <div>
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
