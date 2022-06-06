@@ -7,21 +7,19 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
 ## 🛠 Tools & Technologies 
 <div>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
 </div>
 
 Please note that in some tools & technologies shown here and my website, I am not as proficient as others; they are only to show the tools & technologies used in my Github projects!
