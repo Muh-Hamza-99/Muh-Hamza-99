@@ -5,17 +5,11 @@
 My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher and tabla player!
 
 ## 🛠 Tools & Technologies 
-<h4>Frontend</h4>
-<div>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
-</div>
-
-<h4>Backend</h4>
-<div>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
@@ -23,7 +17,6 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
-</div>
 
 <h4>Tools & Infrastructure</h4>
 <div>
