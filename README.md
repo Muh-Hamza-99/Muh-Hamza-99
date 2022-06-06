@@ -6,7 +6,7 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
 
 ## 🛠 Tools & Technologies 
 <div>
-  <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img width ="40px" unselectable="True" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
