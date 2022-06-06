@@ -5,11 +5,17 @@
 My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher and tabla player!
 
 ## 🛠 Tools & Technologies 
+<h4>Frontend</h4>
 <div>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
+</div>
+
+<h4>Backend</h4>
+<div>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
@@ -18,11 +24,16 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
-  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
-  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
 </div>
 
-Please note that in some tools & technologies shown here and my website, I am not as proficient as others; they are only to show the tools & technologies used in my Github projects!
+<h4>Tools & Infrastructure</h4>
+<div>
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
+  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+</div>
+
+Please note that in some tools & technologies shown here and my website, I am not as proficient as others; they are only to show the tools & technologies used in my projects!
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
