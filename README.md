@@ -6,34 +6,31 @@ My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher 
 
 ## 🛠 Skills
 <div>
-  #### Languages
-  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-  #### Frontend
+  <h4>Frontend</h4>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <br />
   <br />
-  #### Backend
+  <h4>Backend</h4>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
   <br />
   <br />
-  #### Database
+  <h4>Databases</h4>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <br />
   <br />
-  #### Tools
+  <h4>Tools</h4>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
   <br />
   <br />
-  #### Infrastructure
+  <h4>Infrastructure</h4>
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
   <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
 </div>
