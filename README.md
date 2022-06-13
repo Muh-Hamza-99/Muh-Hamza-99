@@ -5,7 +5,7 @@
 My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher and tabla player!
 
 ## 🛠 Skills
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
   <div>
     <h4>Frontend</h4>
     <img width ="40px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
