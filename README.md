@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-My name is Hamza, a 16-year old full-stack developer, cloud enthusiast, teacher and tabla player!
+My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher and tabla player
 
 ## 🛠 Skills
 <div style="display: flex; flex-direction: row;">
