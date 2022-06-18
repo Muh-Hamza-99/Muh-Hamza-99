@@ -8,29 +8,29 @@ My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher an
 <div style="display: flex; flex-direction: row;">
   <div>
     <h4>Frontend</h4>
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
     <br />
     <h4>Backend</h4>
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
   </div>
   <div>
     <h4>Databases</h4>
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
     <br />
     <h4>Tools</h4>
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
     <br />
     <h4>Infrastructure</h4>
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
-    <img width ="60px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
+    <img width ="50px" unselectable="True" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   </div>
 </div>
 
