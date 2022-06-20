@@ -5,7 +5,7 @@
 My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher and tabla player
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,discordbots,mongodb,postgres,git,vscode,docker,aws,figma&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,discordbots,mongodb,postgres,git,vscode,docker,aws,figma&theme=dark&perline=20)](https://skillicons.dev)
 
 Please note that in some tools & technologies shown here and my website, I am not as proficient as others; they are only to show the tools & technologies used in my projects!
 
