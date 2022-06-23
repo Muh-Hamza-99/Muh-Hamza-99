@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher and tabla player
+My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher and tabla player! 
+🧠 I'm currently learning FastAPI
+💬 Ask me about APIs
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,fastapi,discordbots,mongodb,postgres,git,vscode,docker,aws,figma&theme=dark&perline=10)](https://skillicons.dev)
