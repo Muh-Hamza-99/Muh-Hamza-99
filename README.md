@@ -9,6 +9,11 @@ My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher an
 
 Please note that in some tools & technologies shown here and my website, I am not as proficient as others; they are only to show the tools & technologies used in my projects!
 
+## 🏅 Certifications
+<div>
+<img src="./certifications/aws-ccp.png" width=90>
+</div>
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
 
