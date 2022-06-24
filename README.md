@@ -11,7 +11,7 @@ Please note that in some tools & technologies shown here and my website, I am no
 
 ## 🏅 Certifications
 <div>
-<img src="./certifications/aws-ccp.png" width=90>
+<img src="./certifications/aws-ccp.png" width=100>
 </div>
 
 ## 🔗 Links
