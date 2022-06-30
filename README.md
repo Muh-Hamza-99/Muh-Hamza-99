@@ -26,6 +26,4 @@ Please note that in some tools & technologies shown here and my website, I am no
 ## 📊 Stats
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Muh-Hamza-99&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muh-Hamza-99)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muh-hamza-99&label=Profile%20views&color=0e75b6&style=flat" alt="muh-hamza-99" /> </p>
