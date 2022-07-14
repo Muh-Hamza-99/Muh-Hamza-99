@@ -11,6 +11,8 @@ My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher an
 
 [![Database](https://skillicons.dev/icons?i=mongodb,postgres&theme=dark)](https://skillicons.dev)
 
+[![Miscellaneous](https://skillicons.dev/icons?i=markdown&theme=dark)](https://skillicons.dev)
+
 [![Tools & Infrastructure](https://skillicons.dev/icons?i=vscode,docker,aws,figma&theme=dark)](https://skillicons.dev)
 
 Please note that in some tools & technologies shown here and my website, I am not as proficient as others; they are only to show the tools & technologies I have good/sufficient working proficiency in!
