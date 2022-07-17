@@ -5,7 +5,7 @@
 My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher and tabla player! 
 
 ## 🛠 Skills
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss&theme=dark)](https://skillicons.dev)
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,python,discordbots,&theme=dark)](https://skillicons.dev)
 
