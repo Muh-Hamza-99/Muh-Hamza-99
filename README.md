@@ -9,7 +9,7 @@ My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher an
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,python,discordbots,&theme=dark)](https://skillicons.dev)
 
-[![Database](https://skillicons.dev/icons?i=mongodb,postgres&theme=dark)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark)](https://skillicons.dev)
 
 [![Miscellaneous](https://skillicons.dev/icons?i=markdown&theme=dark)](https://skillicons.dev)
 
