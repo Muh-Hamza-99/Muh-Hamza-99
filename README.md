@@ -1,5 +1,9 @@
 # Hey there &#60;Developers /&#62;! 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
+</div>
+
 ## 🚀 About Me
 
 My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher and tabla player! 
@@ -25,7 +29,8 @@ Please note that in some tools & technologies shown here and my website, I am no
 </div>
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
+[![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fullstack_tabla/)
 
 ## 📊 Stats
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Muh-Hamza-99&show_icons=true&theme=tokyonight)
