@@ -1,38 +1,25 @@
-# Hey there &#60;Developers /&#62;! 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
-</div>
-
-## 🚀 About Me
+## Hey there &#60;Developers /&#62;! 
 
 My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher and tabla player! 
 
-## 🛠 Skills
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss&theme=dark)](https://skillicons.dev)
+#### Skills
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,python,discordbots,&theme=dark)](https://skillicons.dev)
-
-[![Database](https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark)](https://skillicons.dev)
-
-[![Miscellaneous](https://skillicons.dev/icons?i=markdown&theme=dark)](https://skillicons.dev)
-
-[![Tools](https://skillicons.dev/icons?i=vscode,figma&theme=dark)](https://skillicons.dev)
-
-[![Infrastructure](https://skillicons.dev/icons?i=docker,aws,netlify&theme=dark)](https://skillicons.dev)
-
-Please note that in some tools & technologies shown here and my website, I am not as proficient as others; they are only to show the tools & technologies I have good/sufficient working proficiency in!
-
-## 🏅 Certifications
-<div>
+|  Term  |      Icons      |
+|----------|:-------------:|
+| Languages/Markups |  [![Skills](https://skillicons.dev/icons?i=javascript,python,html,css,markdown&theme=dark)](https://skillicons.dev) |
+| Frameworks | [![Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs,fastapi&theme=dark)](https://skillicons.dev)   |
+| Databases | [![Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark)](https://skillicons.dev) |
+| Infrastructure/Hosting | [![Skills](https://skillicons.dev/icons?i=docker,aws,netlify&theme=dark)](https://skillicons.dev) |
+| Software | [![Skills](https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark)](https://skillicons.dev) |
+  
+#### Certifications
 <img src="./certifications/aws-ccp.png" width=100>
-</div>
 
-## 🔗 Links
+#### Links
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
 [![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fullstack_tabla/)
 
-## 📊 Stats
+#### Statistics
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Muh-Hamza-99&show_icons=true&theme=tokyonight)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muh-hamza-99&label=Profile%20views&color=0e75b6&style=flat" alt="muh-hamza-99" /> </p>
