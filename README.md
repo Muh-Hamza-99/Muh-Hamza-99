@@ -17,7 +17,7 @@ My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher an
 
 #### Links
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
-[![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fullstack_tabla/)
+[Resume](https://drive.google.com/file/d/19rgFl56fUx--0nFzzTYp7BTJbBgVoxdG/view)
 
 #### Statistics
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Muh-Hamza-99&show_icons=true&theme=tokyonight)
