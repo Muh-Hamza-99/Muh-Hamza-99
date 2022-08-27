@@ -7,10 +7,10 @@ My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher an
 |  Term  |      Icons      |
 |----------|:-------------:|
 | Languages/Markups |  [![Skills](https://skillicons.dev/icons?i=javascript,python,html,css,markdown&theme=dark)](https://skillicons.dev) |
-| Frameworks | [![Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs,fastapi&theme=dark)](https://skillicons.dev)   |
+| Frameworks | [![Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs&theme=dark)](https://skillicons.dev) <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/puppeteer.svg" /> [![Skills](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://skillicons.dev) <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/scikit.svg" /> <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />|
 | Databases | [![Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark)](https://skillicons.dev) |
-| Infrastructure/Hosting | [![Skills](https://skillicons.dev/icons?i=docker,aws,netlify&theme=dark)](https://skillicons.dev) |
-| Software | [![Skills](https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark)](https://skillicons.dev) |
+| Infrastructure/Hosting | [![Skills](https://skillicons.dev/icons?i=docker,aws,netlify&theme=dark)](https://skillicons.dev) <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />|
+| Software | [![Skills](https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark)](https://skillicons.dev) <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/postman.svg" /> |
   
 #### Certifications
 <img src="./certifications/aws-ccp.png" width=100>
