@@ -6,7 +6,7 @@ My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher an
 
 |  Term  |      Icons      |
 |----------|:-------------:|
-| Languages/Markups |  [![Skills](https://skillicons.dev/icons?i=javascript,python,html,css,markdown&theme=dark)](https://skillicons.dev) |
+| Languages/Markups |  [![Skills](https://skillicons.dev/icons?i=javascript,python,html,css,markdown,julia&theme=dark)](https://skillicons.dev) |
 | Frameworks | [![Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs&theme=dark)](https://skillicons.dev) [![Skills](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://skillicons.dev) |
 | Databases | [![Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark)](https://skillicons.dev) |
 | Infrastructure/Hosting | [![Skills](https://skillicons.dev/icons?i=docker,aws,netlify&theme=dark)](https://skillicons.dev) |
@@ -17,7 +17,6 @@ My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher an
 
 #### Links
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
-[Resume](https://drive.google.com/file/d/19rgFl56fUx--0nFzzTYp7BTJbBgVoxdG/view)
 
 #### Statistics
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Muh-Hamza-99&show_icons=true&theme=tokyonight)
