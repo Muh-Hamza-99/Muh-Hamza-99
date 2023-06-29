@@ -6,7 +6,7 @@ My name is Hamza, a 16-year old back-end developer, cloud enthusiast, teacher an
 
 |  Term  |      Icons      |
 |----------|:-------------:|
-| Languages/Markups |  [![Skills](https://skillicons.dev/icons?i=javascript,python,html,css,markdown,julia&theme=dark)](https://skillicons.dev) |
+| Languages/Markups |  [![Skills](https://skillicons.dev/icons?i=javascript,python,html,css,markdown&theme=dark)](https://skillicons.dev) |
 | Frameworks | [![Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs&theme=dark)](https://skillicons.dev) [![Skills](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://skillicons.dev) |
 | Databases | [![Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark)](https://skillicons.dev) |
 | Infrastructure/Hosting | [![Skills](https://skillicons.dev/icons?i=docker,aws,netlify&theme=dark)](https://skillicons.dev) |
