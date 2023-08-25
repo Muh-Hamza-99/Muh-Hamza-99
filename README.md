@@ -2,7 +2,7 @@
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,next,nodejs,express,nestjs,mongodb,postgresql,prisma,git,postman,python,markdown&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,next,nodejs,express,nestjs,mongodb,postgresql,prisma,git,postman,python,markdown,aws,docker&theme=dark)](https://skillicons.dev)
 
 <img src="./certifications/aws-ccp.png" width=100>
 
