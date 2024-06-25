@@ -1,11 +1,5 @@
 # Hey there &#60;Developers /&#62;! 
 
-## Skills
-
-[![Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,next,nodejs,express,nestjs,mongodb,postgresql,prisma,git,postman,python,markdown,aws,docker&theme=dark)](https://skillicons.dev)
-
-<img src="./certifications/aws-ccp.png" width=100>
-
 ## Links
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-hamza-18bb1a21b/)
 
